@@ -1,2 +1,1 @@
-# NYTaxi
-try-out spacial analytics project
+# Spacial Analytics Tryouts
